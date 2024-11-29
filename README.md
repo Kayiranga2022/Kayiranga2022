@@ -12,7 +12,7 @@
   - [Banking system using Springboot and React](https://github.com/Kayiranga2022/Banking_in_springboot_and_react)
   - <b>FullStack Applications</b>
   - [Banking system using Springboot and React](https://github.com/Kayiranga2022/Banking_in_springboot_and_react)
-  - [School Registration System in Springboot and React)](https://github.com/Kayiranga2022/AucaRegistrationSystem)
+  - [School Registration System in Springboot and React](https://github.com/Kayiranga2022/AucaRegistrationSystem)
 - <b>React JS</b>
   - [Movies App ](https://github.com/Kayiranga2022/movies)
 
