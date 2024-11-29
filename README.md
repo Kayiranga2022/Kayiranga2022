@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>PHP Practice (AlgoExpert)</b>
+- <b>PHP Practice</b>
   - [Praciting PHP](https://github.com/Kayiranga2022/barn_app)
 - <b>C Programming (learn c programmig and make apps)</b>
   - [Banking App with all transactions i C](https://github.com/Kayiranga2022/Banking_in_Cprogramming) 
