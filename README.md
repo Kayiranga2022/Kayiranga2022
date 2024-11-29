@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ernest! <br/><a href="https://github.com/Kayiranga2022/">Programmer</a>, <a href="www.linkedin.com/in/kayiranga-ernest-27022a272/">Software Engineer</a></h1>
+<h1>Hi, I'm Ernest! <br/><a href="https://github.com/Kayiranga2022/">Programmer</a>, <a href="https://www.linkedin.com/in/kayiranga-ernest-27022a272/">Software Engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
