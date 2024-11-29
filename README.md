@@ -8,7 +8,7 @@
   - [Banking App with all transactions i C](https://github.com/Kayiranga2022/Banking_in_Cprogramming) 
 - <b>Java</b>
   - [Banking system using Java Swing](https://github.com/Kayiranga2022/Banking_in_Java_Swing)
-  - [Banking system using Java MVC)](https://github.com/Kayiranga2022/Banking_In_Java_MVC)
+  - [Banking system using Java MVC](https://github.com/Kayiranga2022/Banking_In_Java_MVC)
   - [Banking system using Springboot and React](https://github.com/Kayiranga2022/Banking_in_springboot_and_react)
   - <b>FullStack Applications</b>
   - [Banking system using Springboot and React](https://github.com/Kayiranga2022/Banking_in_springboot_and_react)
